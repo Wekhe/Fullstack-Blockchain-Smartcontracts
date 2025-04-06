@@ -24,8 +24,8 @@ Confused? You can run `git checkout nodejs-edition` if you'd like to see this wi
 1. Clone the repo
 
 ```
-git clone https://github.com/PatrickAlphaC/html-fund-me-fcc
-cd html-fund-me-fcc
+git clone https://github.com/Wekhe/Fullstack-Blockchain-Smartcontracts.git
+cd Fullstack-Blockchain-Smartcontracts
 ```
 
 2. Run the file.
